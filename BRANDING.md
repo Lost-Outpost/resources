@@ -1,1 +1,1 @@
-Hex Code for Embeds: #F8F635
+Hex Code for Embeds: #7217A9
